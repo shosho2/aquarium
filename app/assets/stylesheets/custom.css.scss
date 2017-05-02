@@ -1,0 +1,25 @@
+@import "bootstrap";
+
+body {
+	padding-top: 150px;
+}
+
+html {
+	overflow-y: scroll
+}
+
+.jumbotron {
+	background-color: #777
+}
+
+.navbar-right{
+	padding-right: 13px;
+	padding-top: 20px;
+}
+
+.navbar-brand {
+	padding-left: 30px;
+	font-size: 3em;
+	color: #4682B4;
+	
+}
